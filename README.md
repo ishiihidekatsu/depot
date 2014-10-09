@@ -1,4 +1,4 @@
 depot
 ============================================================
-This is source code for test application with Ruby on Rails.
-============================================================
+This is source code for test application in Ruby on Rails.
+
